@@ -1,0 +1,86 @@
+/* here you can put your own css to customize and override the theme */
+.checkbox-parametre{
+	background-color:white;
+}
+
+td.rouge {
+	background-image: url("../../../../images/icons/stop32.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+td.vert {
+	background-image: url("../../../../images/icons/good.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+td.regression {
+	background-image: url("../../../../images/valid.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.myGrid {
+    width: 100%;
+    height: 100%;
+  }
+.selectAll{
+	margin-left: 80px;
+	font-style: oblique;
+}
+.link-white{
+	color:white;
+}
+span.historique{
+	font-size: 11px;
+}
+
+.float-center{
+	float: right;
+	position:fixed;
+	z-index:1000;
+	top:200px;
+	left:400px;
+	width:40%;
+	height:20%;
+	color:white;
+	background-color:#967d4d;
+	text-align:center;
+	border-color: white;
+
+	
+}
+
+td.jaune {
+	background-image: url("../../../../images/icons/alert.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+table{
+	text-align: center;
+	vertical-align: middle;
+	
+}
+
+.login-container {
+	background-color:  rgba(45, 45, 45, 1)
+	height: auto;
+
+}
+
+.login-card {
+	background-color: #967d4d!important;
+	margin-top: 80px;
+}
+th{
+	text-align: center;
+	vertical-align: middle;
+}
+.titre-login{
+	border: highlight;
+}
+.avancement-space{
+	margin-top: 35px
+}

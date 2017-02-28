@@ -1,0 +1,48 @@
+html {
+	background-color: #2F2F2F;
+}
+body{
+	font-family: Candara; 
+}
+body, #mainWrapper {
+	height: 100%;
+	background-color:#3a4554;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+	
+	
+}
+
+body, #mainWrapper, .form-control {
+	font-size: 12px !important;
+}
+.titre-formulaire-login{
+	margin-left: 16px;
+}
+
+.copyright{
+}
+
+
+.user-logo {
+	margin-left: 230px;
+}
+#authHeaderWrapper {
+	clear: both;
+
+}
+
+.login-container {
+	background-color:  #3a4554;
+	height: 610px;
+
+}
+
+.login-card {
+	background-color: #465568!important;
+}
+
+.login-form {
+	
+}
