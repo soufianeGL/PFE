@@ -1,4 +1,5 @@
-         Cette application vient à point nommé pour soutenir et renforcer les efforts déployés  par l'équipe des testeurs de SQLI Maroc dans le dessein 
+         Cette application vient à point nommé pour soutenir et renforcer 
+    les efforts déployés  par l'équipe des testeurs de SQLI Maroc dans le dessein 
     de servir de bien en mieux ses clients, plus particulièrement en ce qui  
     concerne, le bilan des tests, l'avancement de chaque projet, et les
     Indices Clefs de performances (KPIs) demandés en fin de mois ou bien 
