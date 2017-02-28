@@ -6,7 +6,7 @@
     d'une période précise, via la mise en place d'un système d'information 
     performant , qui permet d'automatiser ces processus.
 
-    Ainsi, cette application vise à améliorer la qualité des tests de recettes,
+        Ainsi, cette application vise à améliorer la qualité des tests de recettes,
     fournis par l'équipe CP Recette, en réduisant progressivement ses coûts, 
     déployant et automatisant ses processus afin de garantir une visibilité 
     précise chez le client Inwi et fournir les résultats attendus dans des brefs 
